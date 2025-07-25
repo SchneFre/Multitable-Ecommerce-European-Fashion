@@ -13,8 +13,7 @@ The Constrains (Primary Keys, Foreign Keys) in the Database were created with th
 I evaluated the old campaign by comparing the profit with and without the discounts in May and by displaying the running total of items sold. 
 The previous sales campaign seemed to have no impact on the sales
 
-To determine which items should be included in the sale I created a stock reach metric - i.e. how many months would the current stock last with the average sales, I combined this with the margin as well.
-<img width="958" height="427" alt="{CE60B500-9C75-4A59-8643-FD0221757175}" src="https://github.com/user-attachments/assets/fabf8694-67df-4921-b166-e3bd29665811" />
+
 
 
 
