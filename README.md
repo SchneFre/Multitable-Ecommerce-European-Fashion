@@ -17,10 +17,6 @@ To determine which items should be included in the sale I created a stock reach 
 <img width="958" height="427" alt="{CE60B500-9C75-4A59-8643-FD0221757175}" src="https://github.com/user-attachments/assets/fabf8694-67df-4921-b166-e3bd29665811" />
 
 
-# These are the business Questions that should be answered:
-<img width="737" height="366" alt="{658BF842-55FC-42EC-BC91-71A95F77BD9D}" src="https://github.com/user-attachments/assets/1474731d-8902-4407-bc64-57e6eb282ef0" />
-<img width="612" height="251" alt="{D5E59DFB-E3ED-4BB6-9D40-E2B73ED7E4CD}" src="https://github.com/user-attachments/assets/caba05b4-7082-4385-9365-3b56b1d45157" />
-
 
 
 
