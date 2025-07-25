@@ -5,7 +5,7 @@ https://docs.google.com/presentation/d/1uyp1M8sNMBcpu00symHZNMP67LQebAbx3j9_Yg0K
 
 ## Workflow
 
-I used Pyhton to connect to Kaggle and to upload the data into a mySQL database.
+I used Pyhton to connect to Kaggle and to upload the data into a MySQL database.
 In MySQL Workbench I created severeal VIEWs that were queried in pyhton in order to create the visualisations.
 
 ## Goal: Evaluate the last sales campaign and plan the next campaign
